@@ -1,2 +1,2 @@
-# 3D3DGameProgrammingAndDesign
+# 3DGameProgrammingAndDesign
 Homework for 3D course.
