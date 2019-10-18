@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{56807F38-89C5-366E-D130-454CEE2A990A}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller/NewMonoBehaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller/Judge.cs">
     <Files>
-      <File FileName="Assets/Scripts/Controller/FirstController.cs" Line="153" Column="6" />
-      <File FileName="Assets/Scripts/Controller/SSActionManager.cs" Line="49" Column="4" />
+      <File FileName="Assets/Scripts/Controller/FirstController.cs" Line="72" Column="26" />
+      <File FileName="Assets/Scripts/Controller/SSActionManager.cs" Line="14" Column="26" />
       <File FileName="Assets/Scripts/Controller/MoveController.cs" Line="24" Column="44" />
       <File FileName="Assets/Scripts/Controller/ISceneController.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Controller/IUserAction.cs" Line="4" Column="10" />
       <File FileName="Assets/Scripts/Controller/SSDirector.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Model/CharacterModel.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/View/ClickGUI.cs" Line="25" Column="20" />
-      <File FileName="Assets/Scripts/Controller/NewMonoBehaviour.cs" Line="4" Column="19" />
+      <File FileName="Assets/Scripts/Controller/Judge.cs" Line="14" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{22C76A99-A763-4CE7-E8B2-D95569BE7687}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ActionAdapter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneController.cs.meta" Line="46" Column="6" />
+      <File FileName="Assets/Scripts/ActionAdapter.cs.meta" Line="5" Column="27" />
+      <File FileName="Assets/Scripts/DiskFactoryBC.cs.meta" Line="23" Column="21" />
+      <File FileName="Assets/Scripts/GameModel.cs.meta" Line="32" Column="19" />
+      <File FileName="Assets/Scripts/FlyAction.cs.meta" Line="26" Column="8" />
+      <File FileName="Assets/Scripts/FlyActionManager.cs.meta" Line="5" Column="30" />
+      <File FileName="Assets/Scripts/KinematicsAction.cs.meta" Line="14" Column="19" />
+      <File FileName="Assets/Scripts/KinematicsActionManager.cs.meta" Line="5" Column="37" />
+      <File FileName="Assets/Scripts/ActionAdapter.cs" Line="5" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
