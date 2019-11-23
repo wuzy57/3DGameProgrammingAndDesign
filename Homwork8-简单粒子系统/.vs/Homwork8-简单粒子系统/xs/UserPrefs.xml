@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{4FCC3F4F-BE2B-675C-4FEA-023B471EE386}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ParticleSea.cs">
     <Files>
-      <File FileName="Assets/Scripts/ParticleSea.cs" Line="15" Column="42" />
+      <File FileName="Assets/Scripts/ParticleSea.cs" Line="39" Column="1" />
       <File FileName="Assets/Scripts/ClickHandle.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
