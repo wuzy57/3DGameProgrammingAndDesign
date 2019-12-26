@@ -6,13 +6,14 @@ public class DiskFactory : MonoBehaviour
 {
     //飞碟预制
     public GameObject disk_prefab = null;                 
-    private List<DiskData> used = new List<DiskData>();   //正在被使用的飞碟列表
-    private List<DiskData> free = new List<DiskData>();   //空闲的飞碟列表
+    private List<DiskData> used = new List<DiskData>();   
+    private List<DiskData> free = new List<DiskData>();   
 
     public GameObject GetDisk(int round)
     {
         int choice = 0;
-        int scope1 = 1, scope2 = 4, scope3 = 7;           //随机的范围
+        //随机的范围
+        int scope1 = 1, scope2 = 4, scope3 = 7;        
         //飞碟实例化的位置
         float start_y = -10f;                             
         string tag;
